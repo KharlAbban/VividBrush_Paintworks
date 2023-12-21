@@ -97,6 +97,16 @@ footer a {
     color: var(--main-text-color);
     border: 1px solid var(--tert-bg-color);
 }
+.question-submit-btn {
+    background: var(--secondary-bg-color);
+    color: var(--main-text-color);
+    transition: 0.3s ease;
+}
+.question-submit-btn:hover {
+    transform: scale(0.9);
+    background: var(--secondary-bg-color);
+    color: var(--main-text-color);
+}
 .back-to-top {
     position: absolute;
     bottom: 1rem;
