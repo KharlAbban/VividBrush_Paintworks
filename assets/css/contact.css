@@ -1,0 +1,5 @@
+@import url("universal.css");
+
+.ck.ck-editor__editable {
+    min-height: 25vh;
+}
