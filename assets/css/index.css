@@ -1,0 +1,58 @@
+@import url("universal.css");
+
+.bg-hero {
+  background: url("../img/IMG-20231212-WA0017.jpg") no-repeat;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: multiply;
+  background-size: cover;
+  color: var(--secondary-text-color);
+  height: 75vh;
+}
+.bg-hero p {
+    letter-spacing: .3rem;
+    text-transform: uppercase;
+}
+.bg-hero h1 {
+    font-weight: 600;
+}
+#services .col-6 {
+    height: 70vh;
+}
+.serv-first-col {
+    background: url("../img/istockphoto-1015387276-612x612.jpg") no-repeat center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    background-size: cover;
+    color: var(--secondary-text-color);
+    background-size: cover;
+}
+.serv-second-col {
+    background: url("../img/IMG-20231212-WA0014.jpg") no-repeat center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    background-size: cover;
+    color: var(--secondary-text-color);
+    background-size: cover;
+}
+.serv-third-col {
+    background: url("../img/2dd4ebaf20b10b8cb2e657fcb54ebd23.jpg") no-repeat center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    background-size: cover;
+    color: var(--secondary-text-color);
+    background-size: cover;
+}
+.serv-fourth-col {
+    background: url("../img/modern-apartment-with-bold-bright-walls-perfect-showcasing-your-art-collection-min.jpg") no-repeat center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    background-size: cover;
+    color: var(--secondary-text-color);
+    background-size: cover;
+}
+.numberDiv {
+    font-size: 4rem;
+}
+.service {
+    font-weight: 600;
+}

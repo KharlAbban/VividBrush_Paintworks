@@ -1,0 +1,23 @@
+@import url("universal.css");
+
+.bg-history {
+    background: url("../img/joanna-kosinska-B6yDtYs2IgY-unsplash.jpg") no-repeat;
+    background-size: cover;
+}
+.values-card {
+    background: var(--tert-bg-color);
+    color: var(--secondary-text-color);
+}
+.values-card-alt {
+    background: var(--secondary-bg-color);
+    color: var(--main-text-color);
+}
+.values-card-text {
+    font-size: 0.8rem;
+}
+.team-row {
+    height: 50vh;
+}
+.team-img {
+    max-height: 350px;
+}
