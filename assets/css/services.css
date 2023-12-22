@@ -1,1 +1,45 @@
 @import url("universal.css");
+
+.jumbo-section {
+    min-height: 40vh;
+}
+.jumbo-content {
+    min-height: 70vh;
+    background: var(--tert-bg-color);
+    color: var(--secondary-bg-color);
+}
+#services .col-md-6 {
+    height: 50vh;
+}
+.serv-first-col {
+    background: url("../img/istockphoto-1015387276-612x612.jpg") no-repeat center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    background-size: cover;
+    color: var(--secondary-text-color);
+    background-size: cover;
+}
+.serv-second-col {
+    background: url("../img/IMG-20231212-WA0014.jpg") no-repeat center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    background-size: cover;
+    color: var(--secondary-text-color);
+    background-size: cover;
+}
+.serv-third-col {
+    background: url("../img/2dd4ebaf20b10b8cb2e657fcb54ebd23.jpg") no-repeat center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    background-size: cover;
+    color: var(--secondary-text-color);
+    background-size: cover;
+}
+.serv-fourth-col {
+    background: url("../img/modern-apartment-with-bold-bright-walls-perfect-showcasing-your-art-collection-min.jpg") no-repeat center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    background-size: cover;
+    color: var(--secondary-text-color);
+    background-size: cover;
+}
